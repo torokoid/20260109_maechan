@@ -261,7 +261,7 @@ p.note { display: none; }
 <h2><span class="yellow">先に田植えが終わった田んぼは、稲が伸び始めています</span></h2>
 <a href="20260109_041.JPG" target="_blank"><img src="20260109_041.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">いつもの行動脇工場の仏壇は、いつ見ても見事に祀られています</span></h2>
+<h2><span class="yellow">いつもの国道脇の工場の仏壇は、いつ見ても見事に祀られています</span></h2>
 <a href="20260109_042.JPG" target="_blank"><img src="20260109_042.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">走りながら、伝説の山々の撮影</span></h2>
